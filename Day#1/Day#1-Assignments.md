@@ -28,6 +28,8 @@
 > Add your answer here!
 > - Completion Badge
 > - Completion Screenshot	
+![Screenshot 2024-10-20 194712](https://github.com/user-attachments/assets/3853027d-6394-4847-9691-d01ac4dbb86d)
+![Screenshot 2024-10-20 194907](https://github.com/user-attachments/assets/df6c27bf-92b2-4aec-b33f-525d815a5992)
 
 ***
 
@@ -43,6 +45,9 @@
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!
+![Screenshot 2024-10-20 205730](https://github.com/user-attachments/assets/f8b9593a-5a79-4890-8de0-49c3ccbae4bc)
+![Screenshot 2024-10-20 212324](https://github.com/user-attachments/assets/fc07c4de-ba9f-4b5e-800e-3ef10f324bf6)
+![Screenshot 2024-10-20 212403](https://github.com/user-attachments/assets/5794c75c-9e56-4639-9118-b37fabda978d)
 
 ***
 
